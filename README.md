@@ -1,1 +1,1 @@
-printf readme
+printf function in c readme
